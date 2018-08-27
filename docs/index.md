@@ -6,6 +6,9 @@ Quick links:
 * RUSSIR 2018 [tutorial slides](slides/slides-landing)
 * RUSSIR 2018 [hands-on worksheet](hands-on)
 
+## Announcements during RUSSIR
+
+* Download the docker image we will use from Tuesday at https://hub.docker.com/r/ielabgroup/health-search-tutorial. Make sure you download before Tuesday afternoon.
 
 ## Motivation & Overview
 
