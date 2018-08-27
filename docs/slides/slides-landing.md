@@ -3,4 +3,5 @@
 Slides:
 
 * [Part 1](RussirHealthSearch2018-Slides-part1.pdf)
+* [References](RussirHealthSearch2018-Slides-references.pdf)
 
