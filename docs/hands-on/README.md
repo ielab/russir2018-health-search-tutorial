@@ -1,15 +1,11 @@
-# SIGIR Health Search Tutorial - Hands on session instructions
+# RUSSIR Health Search - Hands on session instructions
 
-**Author**: Bevan Koopman, Guido Zuccon
-
-This file is versioned at:
-
-[https://github.com/ielab/health-search-tutorial/tree/master/hands-on](https://github.com/ielab/health-search-tutorial/tree/master/hands-on)
+**Author**: Guido Zuccon (with thanks to Bevan Koopman)
 
 ---
 
 
-The following are instructions on the SIGIR Health Search Tutorial hands-on session.
+The following are instructions on the RUSSIR Health Search Tutorial hands-on sessions.
 
 This tutorial demostrates using a number of different tools to implement a search system in the health domain. These tools require some setup and configuration. To use the burden in this we have distributed them pre-build via a docker image. 
 
