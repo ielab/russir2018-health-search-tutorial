@@ -4,7 +4,7 @@ Welcome to the homepage for the Health Search Lecture Series at RUSSIR 2018.
 
 Quick links:
 * RUSSIR 2018 [tutorial slides](slides/slides-landing)
-* RUSSIR 2018 [hands-on worksheet](https://github.com/ielab/russir2018-health-search-tutorial/tree/master/docs/hands-on)
+* RUSSIR 2018 [hands-on worksheet](hands-on/README)
 
 
 ## Motivation & Overview
