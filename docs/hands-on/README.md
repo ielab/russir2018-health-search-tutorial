@@ -1,6 +1,6 @@
 # RUSSIR Health Search - Hands on session instructions
 
-**Author**: Guido Zuccon (with thanks to Bevan Koopman)
+(Thanks to Bevan Koopman for helping compiling this activity)
 
 ---
 
