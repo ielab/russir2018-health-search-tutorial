@@ -8,6 +8,7 @@ Quick links:
 
 ## Announcements during RUSSIR
 
+* Corrected slides Part 1; uploaded slides part 2; updated practical part handout.
 * Download the docker image we will use from Tuesday at https://hub.docker.com/r/ielabgroup/health-search-tutorial. Make sure you download before Tuesday afternoon.
 * Note from Monday's session: we arrived up to slide 32 of part 1 slide deck. We will cover the remaining material (Tasks in Health Search) during Tuesday's lecture. After that, we will start looking at methods to address tasks and the problems in health search.
 
