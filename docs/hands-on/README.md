@@ -9,7 +9,7 @@ The following are instructions on the RUSSIR Health Search Tutorial hands-on ses
 
 This tutorial demostrates using a number of different tools to implement a search system in the health domain. These tools require some setup and configuration. To use the burden in this we have distributed them pre-build via a docker image. 
 
-## Setup
+## Setup (to be performed ahead of the session on Tuesday)
 
 1) First, **download and install docker** for your operating system.
 
@@ -31,6 +31,8 @@ If the docker image was saved to file (not obtained via docker hub) then it can 
 2. `docker load -i health-search-tutorial-docker.tar`.)
 
 ---
+
+## Part 1 -- Tuesday August 28th, 2018
 
 ### Details of the task
 
@@ -101,6 +103,8 @@ Now, take a look in some files (e.g., `less annotated_docs/NCT02631304.json`) an
 * `cuis` contained the UMLS concept ids for concepts found in the text; and 
 * `concepts` containing the umls concepts names.
 
+
+## Part 2 -- Thursday August 30th, 2018
 
 ### Step 3 - Indexing with Elastic Search
 
