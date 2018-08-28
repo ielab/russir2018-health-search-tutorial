@@ -103,6 +103,7 @@ Now, take a look in some files (e.g., `less annotated_docs/NCT02631304.json`) an
 * `cuis` contained the UMLS concept ids for concepts found in the text; and 
 * `concepts` containing the umls concepts names.
 
+---
 
 ## Part 2 -- Thursday August 30th, 2018
 
